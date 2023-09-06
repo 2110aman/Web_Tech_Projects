@@ -1,0 +1,40 @@
+<HTML>
+<HEAD><h1><b><u> Happy Teachers Days</u></b></h1></HEAD>
+<TITLE>Tecahers Day
+</TITLE>
+<BODY bgcolor="pink" text="black">
+<FORM>
+<H2> NAME : <INPUT TYPE="TEXT" PLACEHOLDER="TYPE HERE" maxlength="7"> </H2>
+<H2>DAY :<select name="Week">
+    <option value="01">Sunday</option>
+    <option value="02">Monday</option>
+    <option value="03" selected>Tuesday</option>
+    <option value="04">Wednesday</option>
+    <option value="05">Thrusday</option>
+    <option value="06">Friday</option>
+    <option value="07">Saturday</option>
+ </select> </H2>
+<h2>Date : <input type="date" ></h2>
+<h2>Best student : <select name : "dropdown">
+    <option value="Anmol patel" selected> Anmol patel</option>
+    <option value="Aman Singh" selected> Aman Singh</option>
+    <option value="Vijay" selected> Vijay</option>
+    <option value="Aditya" selected> Aditya</option>
+    <option value="Kashish" selected> Kashish</option>
+    <option value="Varun" selected> Varun</option>
+    <option value="-select-" selected>-select-</option>
+</select></h2>
+<h2>Subject : <select name : "dropdown">
+    <option value="Webtech 1" selected> Web Tech 1</option>
+    <option value="fundamental of python" selected>fundamental Of Computer</option>
+    <option value="English" selected> English</option>
+    <option value="Value Education" selected> Value Education</option>
+    <option value="Biology" selected> Biology</option>
+    <option value="Physics" selected> Physics</option>
+    <option value="-select-" selected>-select-</option>
+</select></h2>
+<input type="button" value="SUMMIT" onclick="Alert(WELCOME)">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="button" value="RESET" onclick="Alert(THANKS)">
+
+</FORM>
+</BODY>
+</HTML>
