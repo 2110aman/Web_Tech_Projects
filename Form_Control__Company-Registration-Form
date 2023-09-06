@@ -1,0 +1,51 @@
+<HTML>
+<HEAD><h1><b><u> Company Registration Form</u></b></h1></HEAD>
+<TITLE>Company Registration Form
+</TITLE>
+<BODY bgcolor="white" text="black">
+<FORM>
+    <h4> Resister your business by using this form. required Fields are marked with an asterrisk(*)</h4>
+<b> <label class="required"> Company name </label>:     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Owner: </b><br>
+    <Textarea rows="1" cols="40" > </Textarea>&nbsp;&nbsp;&nbsp;&nbsp;
+    <Textarea rows="1" cols="40"> </Textarea><br><br>
+       <b> Company mailing address</b>
+        <h2> <Textarea rows="1" cols="86" > Street Address</Textarea></h2>
+        <Textarea rows="1" cols="40" >City </Textarea>&nbsp;&nbsp;&nbsp;&nbsp;
+          <Textarea rows="1" cols="40"> State</Textarea><br><br>
+          <Textarea rows="1" cols="40" > Zip Code</Textarea>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <select name="Week" cols="50">
+    <option value="India">India</option>
+    <option value="Nepal">Nepal</option>
+    <option value="Pakistan" >Pakistan</option>
+    <option value="Srilanka">Srilanka</option>
+    <option value="Bangladesh">Bangladesh</option>
+    <option value="manyanmar">manyanmar</option>
+    <option value="China">China</option>
+    <option value="-select-" selected>Country</option>
+ </select> </H2><br><br>
+<b>Email </b>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>PhoneNumber</b> <br>
+<input type="text" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" placeholder="### ### ####" maxlength="10"><br><br>
+<b>Nominal capital&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Industry</b><br>
+    <Textarea rows="1" cols="40"> </Textarea>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select name="Week" cols="50">
+        <option value="agriculture">agriculture</option>
+        <option value="Telecommunications">Telecommunications</option>
+        <option value="Hospitality" >Hospitality</option>
+        <option value="Biotechnology">Biotechnology</option>
+        <option value="food Industry">food Industry</option>
+        <option value="Education">Education</option>
+        <option value="Infrasture">Infrasture</option>
+        <option value="-Please select-" selected>-Please Select-</option>
+     </select> </H2><br>
+</select></h2>
+<br>
+<input type="button" value="SUMMIT" onclick="Alert(WELCOME)">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="button" value="RESET" onclick="Alert(THANKS)">
+
+</FORM>
+</BODY>
+</HTML>
