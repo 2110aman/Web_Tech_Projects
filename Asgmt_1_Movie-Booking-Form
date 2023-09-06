@@ -1,0 +1,56 @@
+<HTML>
+    <HEAD><h1><u><b>MOVIE TICKET BOOKING FORM</h1></u></B></HEAD>
+    <TITLE>BOOK YOUR MOVIE</TITLE>
+    <BODY bgcolor="yellow" text="black">
+    <form>
+    <H2>Movie Title : <input type="text" placeholder="Type Here"></h2>
+    <h2> Show Date:<input type="date" > 
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Show Time:<select 
+    type="dropdown">
+    <option value "9:00am to 12:00pm" selected> 9:00am to 12:00pm</option>
+    <option value "12:00pm to 3:00pm" selected> 12:00pm to 3:00pm</option>
+    <option value "3:00pm to 6:00pm" selected> 3:00pm to 6:00pm</option>
+    <option value "6:00pm to 9:00pm" selected> 6:00pm to 9:00pm</option>
+    <option value "-Select-" selected>-Select-</option></select></h2>
+    <H2>Theatre:&nbsp&nbsp&nbsp&nbsp<select name="dropdown">
+    <option value="Audi 1" sectected>Audi 1</option>
+    <option value="Audi 2" sectected>Audi 2</option>
+    <option value="Audi 3" sectected>Audi 3</option>
+    <option value "-Select-" selected>-Select-</option>
+    <br></select></h2>
+    <h2> Genre:<select type="dropdown">
+    <option value "comedey" selected> Comedey</option>
+    <option value "Horror" selected> Horror</option>
+    <option value "Action" selected> Action</option>
+    <option value "Thriller" selected> Thriller</option><option value "-Select-" selected>-Select-
+    </option></select>&nbsp&nbsp&nbsp&nbsp&nbsp Select No. Of Seat:<select type="dropdown">
+    <option value "1" selected> 1 </option>
+    <option value "2" selected> 2 </option>
+    <option value "3" selected> 3 </option>
+    <option value "4" selected> 4 </option>
+    <option value "5" sleceted> 5 </option>
+    <option value "-Select-" selected>-Select-</option></select></h2>
+    <h2><select type="dropdown">
+    <option value "Mr." selected> Mr.</option>
+    <option value "Mrs." selected> Mrs.</option> </select> First Name:<input type="text" placeholder="Type
+    Here">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Last Name:<input 
+    type="text" placeholder="Type Here"></h2>
+    <h2>Age :<input type="number" placeholder="Type 
+    Here">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspGender:<INPUT 
+    TYPE="CHECKBOX">Male <INPUT TYPE="CHECKBOX">Female <INPUT TYPE="checkbox">Other</h2>
+    <H2>Address:&nbsp&nbsp&nbsp&nbsp<textarea row="10" cols="20"> Type here</textarea></H3>
+    <h2>Payment Mode:<select type="dropdown">
+    <option value "Cash" selected> Cash </option>
+    <option value "Debit Card" selected> Debit Card </option>
+    <option value "Credit Card" selected> Credit Card </option>
+    <option value "UPI" selected> UPI </option> 
+    <option value "PayLater" sleceted> PayLater </option> <option value "-Select-" selected>-Select-
+    </option></select>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
+    Payment Receipt <input type="file"></h2>
+    <INPUT TYPE="BUTTON" VALUE="SUBMIT"> <input type="reset" value="RESET">
+     </form>
+    <marquee behvaiour="alternate"><b> @Created By @Aman Singh Roll No. 13 (Section G)<b>
+     <marquee>
+    </body>
+    </html>
+    
