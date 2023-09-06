@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>Time Table BCA 1<sup>st</sup> Section 'G'
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Table</title>
+</head>
+
+<body>
+    <table border="2" style="solid" table style="width:500px">
+        <tr>
+            <TH colspan="10"><b>GLA UNIVERSITY,MATHURA</b></TH>
+        </tr>
+        <tr>
+            <TH colspan="10"><b>Institute of Engineering & Technology</b></TH>
+        </tr>
+        <tr>
+            <TH colspan="10">Computer Engineering & Technology</TH>
+        </tr>
+        <tr>
+            <th colspan="4"> time table: Odd Semester Programme</th>
+            <th colspan="4">Course: Bachelor of Computer Application</th>
+            <th colspan="2"> Session: 2023-2024</th>
+        </tr>
+        <tr>
+            <th colspan="2">Section: 1G(OFFLINE)</th>
+            <th colspan="2">Semester: I</th>
+            <th colspan="3">Class Advisor : &nbsp&nbsp&nbsp&nbsp&nbsp Dr. &nbspKanta Prasad Sharma
+            <th colspan="2"></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th> Lecture #</th>
+            <th ></th>
+            <th>3</th>
+            <th>4</th>
+            <th>5</th>
+            <th>6</th>
+            <th>7</th>
+            <th>8</th>
+            <th>9</th>
+            <th>10</th>
+        </tr>
+        <tr>
+            <th> Day/Time</th>
+            <th></th>
+            <th>8:00-9:00</th>
+            <th>9:00-10:00</th>
+            <th>10:00-11:00</th>
+            <th>11:00-12:00</th>
+            <th>12:00-1:00</th>
+            <th>1:00-2:00</th>
+            <th>2:00-3:00</th>
+            <th>3:00-4:00</th>
+        </tr>
+        <tr>
+            <th rowspan="2"> Monday</th>
+            <th></th>
+            <th colspan="2">BCAC0814/G1/LAB 335</th>
+            <th rowspan="2">BCAC 0018<br>228</th>
+            <th rowspan="2"></th>
+            <th rowspan="2" bgcolor="yellow">BBIE0001<br>224</th>
+            <th rowspan="2">Lunch</th>
+            <th rowspan="2"></th>
+            <th rowspan="2"></th>
+        </tr>
+        <tr>
+            <th> </th>
+            <th colspan="2"></th>
+        </tr>
+        <tr>
+            <th rowspan="2"> Tuesday</th>
+            <th></th>
+            <th colspan="2">BCAC0814/G2/LAB 335</th>
+            <th rowspan="2" bgcolor="yellow">BBIE0001<br>228</th>
+            <th rowspan="2"> BCAC 0018<br>228</th>
+            <th rowspan="2"> Lunch</th>
+            <th rowspan="2">BCHO 0012 <br>228</th>
+            <th colspan="2">BCAC0815/G2/LAB 336
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="2"> BCAC0814/G1/LAB 336 </th>
+            <th colspan="2"></th>
+        </tr>
+        <tr>
+            <th> Wednesday</th>
+            <th></th>
+            <th></th>
+            <th>BCAC 0019<br>228</th>
+            <th bgcolor="yellow">BBIE0001<br>228</th>
+            <th>BELA 0003<BR>228</th>
+            <th>Lunch</th>
+            <th>BCAC 0018<BR>228</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th> Thrusday</th>
+            <th></th>
+            <th></th>
+            <th>BCAC 0019<br>228</th>
+            <th bgcolor="yellow">BBIE0001<br>228</th>
+            <th></th>
+            <th>Lunch</th>
+            <th bgcolor="RED">BCHO 0012<br>228</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th> Friday</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th >BCAC 0018<br>228</th>
+            <th></th>
+            <tH> BELA 0003 <BR> 228</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </table>
+</body>
+
+</html>
