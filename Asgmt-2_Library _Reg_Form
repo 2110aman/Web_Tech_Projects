@@ -1,0 +1,37 @@
+<HTML>
+<TITLE> Library Card Issue Form </TITLE>
+<HEAD><h1><b><u> <style>< h1> div { text-align: center; }</style> CENTRAL LIBRARY</u> </b> 
+</h1></HEAD>
+<BODY bgcolor="sky blue" text="black">
+<form action="/aman">
+ <h1>Library Card Issue Form</h1>
+ <H2>Membership Type:&nbsp&nbsp&nbsp&nbsp<select name="dropdown">
+ <option value="Student" sectected>Student</option>
+ <option value="faculty" sectected>faculty</option>
+ <option value="-Select-" selected>-Select-</option>
+ </h2> </select> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<H2>Membership 
+no.:&nbsp&nbsp&nbsp<INPUT TYPE="NUMBER" PLACEHOLDER="TYPE HERE"></H2>
+ <h2>Full Name &nbsp:&nbsp&nbsp&nbsp<INPUT TYPE="TEXT" PLACEHOLDER="TYPE HERE"></H2>
+ <h2>Father Name:<INPUT TYPE="TEXT" PLACEHOLDER="TYPE HERE"></H2>
+ <H2>Contact No:&nbsp&nbsp&nbsp<INPUT TYPE="NUMBER" PLACEHOLDER="TYPE HERE"></H2>
+ <H2>Email Add:&nbsp&nbsp&nbsp&nbsp<INPUT TYPE="text " PLACEHOLDER="TYPE HERE"></H2>
+ <h2>Date Of Birth:<input type="date"></h2>
+ <H2>Gender:<INPUT TYPE="CHECKBOX">Male <INPUT TYPE="CHECKBOX">Female <INPUT 
+TYPE="RADIO">Other</H2>
+ <H2>Address:&nbsp&nbsp&nbsp&nbsp<textarea row="10" cols="20"> Type here</textarea></H2>
+ <H2>Course:&nbsp&nbsp&nbsp&nbsp<select name="dropdown">
+ <option value="Btech-CS" sectected>Btech-CS</option>
+ <option value="Btech-MECH" sectected>Btech-MECH</option>
+ <option value="Btech-ELEC" sectected>Btech-ELEC</option>
+ <option value="BCA" sectected>BCA</option>
+ <option value="BBA" sectected>BBA</option>
+ <option value="-Select-" selected>-Select-</option> <br> </select></h2>
+ <h2>Upload Photograph: <input type="file"></h2>
+ <h2>Upload Signature: <input type="file"></h2>
+ <h2>Upload Fee Receipt: <input type="file"></h2>
+<H4>Accepet<INPUT TYPE="CHECKBOX">Term and Condition applied </h4>
+<INPUT TYPE="BUTTON" VALUE="SUBMIT"> <input type="reset" value="reset">
+ </form>
+ <marquee behvaiour="alternate"><b> @Created By @Aman Singh Roll No. 13 (Section G)<b> <marquee>
+</BODY>
+</HTML>
